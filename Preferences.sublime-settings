@@ -1,0 +1,34 @@
+{
+  "tab_size": 2,
+  "font_size": 10,
+  "word_wrap": false,
+  "show_encoding": true,
+  "caret_style": "phase",
+  "highlight_line": true,
+  "draw_white_space": "all",
+  "show_line_endings": true,
+  "soda_folder_icons": true,
+  "indent_to_bracket": true,
+  "fade_fold_buttons": false,
+  "bold_folder_labels": true,
+  "default_line_ending": "unix",
+  "enable_telemetry": "disabled",
+  "highlight_modified_tabs": true,
+  "translate_tabs_to_spaces": true,
+  "open_files_in_new_window": false,
+  "always_show_minimap_viewport": true,
+  "trim_trailing_white_space_on_save": true,
+  "color_scheme": "Packages/User/Monokai (SL).tmTheme",
+  "ignored_packages": [
+    "LaTeXTab",
+    "SideBarEnhancements",
+    "Vintage",
+    "SublimeLinter",
+    "Pretty JSON",
+    "JS Snippets",
+    "HTMLBeautify"
+  ],
+  "rulers": [
+    75
+  ]
+}
