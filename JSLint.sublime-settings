@@ -1,0 +1,9 @@
+{
+  "filename_filter": "(\\.js)$",
+  "options" : [
+    "--predef", "['angular', 'document', '\\$', '_', 'JQuery', 'FB', 'window', 'module', 'require']",
+    "--indent", "2",
+    "--maxlen", "75",
+    "--node"
+  ]
+}

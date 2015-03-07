@@ -1,0 +1,5 @@
+{
+  "autoCompile":  true,
+  "minify":       false,
+  "lesscCommand": "/home/yahya/.nvm/v0.12.0/bin/lessc"
+}

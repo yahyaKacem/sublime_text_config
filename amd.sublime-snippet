@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+(function (define) {
+  'use strict';
+  define(["$1"], function ($1) {
+    var ${2:something};
+    
+    return $2;
+  });
+}(this.define));
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>admf</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.javascript</scope> -->
+</snippet>

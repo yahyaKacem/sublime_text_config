@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+(function(${1:require}, ${2:exports}){
+  "use strict";
+  $3
+})(${1:require}, ${2:exports});
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>f()</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>javascript</scope>
+</snippet>

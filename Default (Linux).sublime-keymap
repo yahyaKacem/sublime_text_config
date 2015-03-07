@@ -1,0 +1,10 @@
+[
+  {
+    "command": "show_panel",
+    "keys": ["ctrl+shift+c"],
+    "args": {
+      "toggle": true,
+      "panel": "console"
+    }
+  }
+]
